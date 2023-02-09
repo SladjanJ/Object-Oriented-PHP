@@ -26,3 +26,4 @@
     echo $user2 -> name;
     echo "<br>";
     echo $user2->name();
+    
